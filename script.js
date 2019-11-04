@@ -6,7 +6,7 @@ box.addEventListener("keyup", function(event){
 		
 		var input = document.getElementById("pass").value;
 		if(input == "Stundenplan#"){
-			window.open("Stundenplan.html");
+			window.open("uO/Stundenplan.html");
 			window.close();
 		}
 	}
